@@ -1,0 +1,809 @@
+# The following content was extracted from nordicmicroalgae.org on March 8 2017.
+Pages:
+  - Title: About
+    Path: about
+    Content: |
+      ## Operation and funding
+
+      Nordic microalgae and aquatic protozoa is operated by the Swedish Meteorological and Hydrological Institute ([SMHI](http://www.smhi.se/en)) as part of the [Swedish Lifewatch](http://www.svenskalifewatch.se/) programme.
+
+      The project [Swedish Lifewatch](http://www.svenskalifewatch.se/), funded by the [Swedish Research Council](http://vr.se/inenglish.4.12fff4451215cbd83e4800015152.html) is providing funds for the development and operation of Nordic Microalgae since October 2010.  The Swedish Lifewatch project contributes to [European Lifewatch](http://www.lifewatch.eu/).
+
+      ## The partners in Swedish Lifewatch are:
+
+      * [The Swedish Species Information Centre](http://www.artdata.slu.se/english/) at the Swedish University of Agricultural Sciences (lead partner).
+      * [Department of Aquatic Sciences and Assessment](http://www.slu.se/en/faculties/nl/about-the-faculty/departments/department-of-aquatic-sciences-and-assessment/), Swedish University of Agricultural Sciences
+      * [The University of Gothenburg](http://gu.se/english/)
+      * [Lund University](http://www.lunduniversity.lu.se/)
+      * [Umeå University](http://www.umu.se/english/?languageId=1)
+      * [Swedish Meteorological and Hydrological Institute, SMHI](http://www.smhi.se/en)
+      * [The Swedish Museum of Natural History](http://www.nrm.se/en/frontpage.16_en.html)
+
+      ## Links and logotypes
+      <ul class="partners-links-and-logotypes">
+        <li>
+          <a href="http://www.svenskalifewatch.se/"><img src="/sites/default/files/swedish_lifewatch.png" alt="" /></a>
+        </li>
+        <li>
+          <a href="http://www.lifewatch.eu/"><img src="/sites/default/files/lifewatch.png" alt="" /></a>
+        </li>
+        <li>
+          <a href="http://www.slu.se/en/collaborative-centres-and-projects/artdatabanken/"><img src="/sites/default/files/slu_artdatabanken_0.jpg" alt="" /></a>
+        </li>
+        <li>
+          <a href="http://www.smhi.se/en"><img src="/sites/default/files/SMHI-logotype36x88.gif" alt="" /></a>
+        </li>
+        <li>
+          <a href="http://www.vr.se/"><img src="/sites/default/files/vetenskapsradet-logotyp.png" alt="" /></a>
+        </li>
+        <li>
+          <a href="http://www.nrm.se/en/frontpage.16_en.html"><img src="/sites/default/files/nrm_logo-startsida.gif" alt="" /></a>
+        </li>
+        <li>
+          <a href="http://www.slu.se/en/faculties/nl/about-the-faculty/departments/department-of-aquatic-sciences-and-assessment/"><img src="/sites/default/files/SLU_0.jpg" alt="" /></a>
+        </li>
+        <li>
+          <a href="http://www.umu.se/english/?languageId=1"><img src="/sites/default/files/umu_logo.png" alt="" /></a>
+        </li>
+        <li>
+          <a href="http://www.gu.se/english"><img src="/sites/default/files/blue_gu_logo_eng.jpg" alt="" /></a>
+        </li>
+        <li>
+          <a href="http://www.lunduniversity.lu.se/"><img src="/sites/default/files/lu_logo.png" alt="" /></a>
+        </li>
+      </ul>
+
+  - Title: Advisory committees
+    Path: Advisory_committees
+    Content: |
+      Nordic microalgae and aquatic protozoa is operated by the Swedish Meteorological and Hydrological Institute as part of the Swedish Lifewatch programme. The following committees/societies contributes to species lists and gives advice on the content and functionality of the web site:
+
+      * __The Nordic Microalgae team at [SMHI](http://www.smhi.se/Kontakt/SMHIs-lokalkontor/smhi-goteborg-1.6449)__
+          * Bengt Karlson
+          * Malin Mohlin
+          * Ann-Turi Skjevik
+          * Marie Johansen
+          * Patrik Strömberg
+          * Arnold Andreasson
+          * Andreas Loo
+      * __The Swedish Microalgae Committee (SMAC)__
+          * Lars Edler
+          * Susanne Gustafsson
+          * Eva Herlitz
+          * Maria Kahlert
+          * Bengt Karlson (chair)
+          * Malin Mohlin
+          * Anders Stehn
+          * Eva Willén
+      * __The Norwegian Microalgae Naming Committee__
+          * Bente Edvardsen
+          * Wenche Eikrem (chair)
+          * Birger Skjelbred
+          * Karl Tangen
+          * Cecilie von Quilfeldt
+      * __The Unofficial Icelandic Microalgae Committee__
+          * Hafsteinn Guðfinnsson
+          * Kristinn Gudmundsson
+          * Agnes Eydal
+          * Kristin Valsdottir
+          * Karl Gunnarsson
+      * __The Finnish Phytoplankton Society__ ([Link to site in Finnish](http://www.kasviplanktonseura.fi/))
+          * Kristiina Vuorio (chair)
+          * Marko Järvinen  (vice chair)
+          * Laura Forsström
+          * Päivi Hakanen
+          * Maija Niemelä
+          * Arja Palomäki (deputy member)
+          * Sanna Autio (deputy member)
+      * __A group of danish microalgae taxonomists__
+          * Øjvind Moestrup
+          * Nina Lundholm
+          * Jacob Larsen
+          * Gerd Hansen
+          * Henrik Enevoldsen (IOC Harmful Algal Bloom Centre)
+
+  - Title: Checklists
+    Path: checklists
+    Content: |
+      ## Nordic Microalgae checklists
+
+      Lists of species and subordinate taxa and some addtional information is availabe in the standard version.
+      The extended version also includes the taxonomic hierarchy and HELCOM-PEG names etc.
+      Please note that the content of Nordic Microalge is based on [Dyntaxa](http://lampetra2-1.artdata.slu.se:6767/EXEC/0/1l1u2a41i71tfj14dze5n0lcd8vg) at the [Swedish Species Information Centre](http://www.artdata.slu.se/).
+
+
+      ### Adobe Acrobat format
+
+      * [nordicmicroalgae_checklist_2011_Oct_10.pdf](http://downloads.nordicmicroalgae.dev/nordicmicroalgae_checklist_2011_Oct_10.pdf)
+
+      ### Excel file format
+
+      * [nordicmicroalgae_checklist_2011_Oct_10.xls](http://downloads.nordicmicroalgae.dev/nordicmicroalgae_checklist_2011_Oct_10.xls)
+      * [nordicmicroalgae_extended_checklist_2011_Oct_10.xls](http://downloads.nordicmicroalgae.dev/nordicmicroalgae_extended_checklist_2011_Oct_10.xls)
+
+      ### Text file (tab delimited)
+
+      * [nordicmicroalgae_checklist_2011_Oct_10.txt](http://downloads.nordicmicroalgae.dev/nordicmicroalgae_checklist_2011_Oct_10.txt)
+      * [nordicmicroalgae_extended_checklist_2011_Oct_10.txt](http://downloads.nordicmicroalgae.dev/nordicmicroalgae_extended_checklist_2011_Oct_10.txt)
+
+      ### Biovolumes and Size-Classes of Phytoplankton in the Baltic Sea
+
+      Olenina, I., Hajdu, S., Edler, L., Andersson, A., Wasmund, N., Busch, S., Göbel, J., Gromisz, S., Huseby, S., Huttunen, M., Jaanus, A., Kokkonen, P., Ledaine, I. and Niemkiewicz, E. 2006 Biovolumes and size-classes of phytoplankton in the Baltic Sea HELCOM Balt.Sea Environ. Proc. No. 106, 144pp. [http://helcom.fi/Lists/Publications/BSEP106.pdf](http://helcom.fi/Lists/Publications/BSEP106.pdf)
+
+      The latest update of the HELCOM-PEG list of biovolumes of phytoplankton in the Baltic Sea and the Kattegat-Skagerrak is available at ICES at: [http://www.ices.dk/marine-data/vocabularies/Pages/default.aspx](http://www.ices.dk/marine-data/vocabularies/Pages/default.aspx)
+
+  - Title: Contact
+    Path: contact
+    Content: |
+      ## E-mail
+      [info@nordicmicroalgae.dev](mailto:info@nordicmicroalgae.dev)
+
+      ## Mail and visiting address
+      Nordic Microalgae<br />
+      c/o SMHI Oceanographic unit<br />
+      Sven Källfelts gata 15<br />
+      SE-426 71 Västra Frölunda Sweden
+
+  - Title: Copyright notice
+    Path: copyright-notice
+    Content: |
+      ## For users
+
+      Images are made available for use in lectures, lecture notes, and seminars for environmental monitoring, educational and research purposes.  If material is used a reference to Nordic Microalgae [http://www.nordicmicroalgae.dev](http://nordicmicroalgae.dev/) is required and the creator (photographer or artist) must be acknowledged. Rights for commercial use may be negotiated directly with the creator of images (photographer or artist).
+
+      [Creative Commons](http://creativecommons.org/licenses/) is used for defining rights of usage. In general _Creative commons Attribution - NoDerivs 3.0 Unported_ is used. This means that the image may be used but the soruce must be attributed and the image may not be altered. Material that is old may be in the public domain. This is the case if the creator has been dead for over 70 years.
+
+      Please visit [Creative Commons](http://creativecommons.org/licenses/) for more information
+
+      ## For contributors
+
+      You agree that your name is shown on [www.nordicmicroalgae.dev](http://nordicmicroalgae.dev/) and that information about you is stored in the contributor database. Your e-mail address will not be shown to the public. It is your responsibility to make sure that you have the right to upload images to Nordic Microalgae. The creator (photographer or artist) keeps the copyright to the image. Please select one of the four options below when you upload images. Number 2 is recommended in general.
+
+      1. Creative Commons Attribution 3.0 Unported
+      2. Creative Commons Attribution-NoDerivs 3.0 Unported
+      3. Creative Commons Attribution-ShareAlike 3.0 Unported
+      4. Public domain
+
+      ## Reference (more names are likely to be added)
+
+      Cite Nordic Microalgae as: Karlson, B. et al. 2015. Nordic Microalgae. World-wide electronic publication,  [http://nordicmicroalgae.dev](http://nordicmicroalgae.dev/).
+
+  - Title: Disclaimer
+    Path: disclaimer
+    Content: |
+      The information contained at Nordic Microalgae is solely for informational purposes. The authors and contributors accept no liability for any loss or damage whatsoever arising as a result of use of or reliance on this information.
+
+  - Title: Galleries
+    Path: galleries
+    Content: |
+      <img class="figure" src="/sites/default/files/photos_001.jpg" alt="" />
+      The galleries section show collections of images. Choose a gallery of interest by clicking on the name of the gallery.
+
+      Galleries are updated around midnight every day. More galleries will be added upon request.
+
+      * [HELCOM-PEG](/galleries/helcom-peg)
+      * [NOMP](/galleries/nomp) - Nordic Marine Phytoplankton Group
+      * [Kuylenstierna](/galleries/kuylenstierna) devoted to images by the late dr. Mats Kuylenstierna
+      * [Skagerrak-Kattegat](/galleries/skagerrak-kattegat) for phytoplankton and microzooplankton in this area
+      * [Norwegian Sea](/galleries/norwegian-sea)
+      * [Freshwater](/galleries/freshwater) is for phytoplankton and microzooplankton in lakes and rivers
+      * [Swedish benthic freshwater diatoms](/galleries/swedish-benthic-freshwater-diatoms)
+      * [Diatom resting stages](/galleries/diatom-resting-stages)
+      * [Dinoflagellate cysts](/galleries/dinoflagellate-cysts)
+      * [Other resting stages](/galleries/other-resting-stages)
+      * [Marine Research Institute - Iceland](/galleries/marine-research-institute-iceland)
+      * [Photographers](/hall-of-fame) galleries
+
+  - Title: Diatom resting stages
+    Path: galleries/diatom-resting-stages
+    Content: |
+      This gallery is aimed for images of diatom resting stages.
+
+      [taxon-media filter: gallery; value: Diatom resting stages]
+
+  - Title: Dinoflagellate cysts
+    Path: galleries/dinoflagellate-cysts
+    Content: |
+      This gallery is aimed for images of dinoflagellate cysts.
+
+      [taxon-media filter: gallery; value: Dinoflagellate cysts]
+
+  - Title: Freshwater
+    Path: galleries/freshwater
+    Content: |
+      This gallery is aimed for freshwater organisms.
+
+      [taxon-media filter: gallery; value: Freshwater]
+
+  - Title: HELCOM-PEG
+    Path: galleries/helcom-peg
+    Content: |
+      The images in this gallery are contributed and quality controlled by HELCOM-PEG. This is the HELCOM Phytoplankton Expert Group dealing mainly with phytoplankton in the Baltic Sea and the Kattegat. Web site of [HELCOM-PEG](http://www.helcom.fi/projects/on_going/peg/en_GB/PEG_QA/).
+
+      [taxon-media filter: gallery; value: HELCOM-PEG]
+
+  - Title: Kuylenstierna
+    Path: galleries/kuylenstierna
+    Content: |
+      In this image gallery the images by the late dr. Mats Kuylenstierna are found.
+
+      [taxon-media filter: gallery; value: Kuylenstierna]
+
+  - Title: Marine Research Institute - Iceland
+    Path: galleries/marine-research-institute-iceland
+    Content: |
+      [taxon-media filter: gallery; value: Marine Research Institute - Iceland]
+
+  - Title: NOMP
+    Path: galleries/nomp
+    Content: |
+      \- Nordic Marine Phytoplankton Group
+      The focus is on phytoplankton from the Kattegat, the Skagerrak, the North Sea, the Norwegian Sea, the Barent Sea, the Iceland Sea and the Greenland Sea.
+
+      [taxon-media filter: gallery; value: NOMP]
+
+  - Title: Norwegian Sea
+    Path: galleries/norwegian-sea
+    Content: |
+      This gallery is aimed for plankton from the Norwgian Sea
+
+      [taxon-media filter: gallery; value: Norwegian Sea]
+
+  - Title: Other resting stages
+    Path: galleries/other-resting-stages
+    Content: |
+      This gallery is aimed for images of other resting stages.
+
+      [taxon-media filter: gallery; value: Other resting stages]
+
+  - Title: Skagerrak-Kattegat
+    Path: galleries/skagerrak-kattegat
+    Content: |
+      The aim of this image gallery is to show images of plankton from the Skagerrak-Kattegat.
+
+      [taxon-media filter: gallery; value: Skagerrak-Kattegat]
+
+  - Title: Swedish benthic freshwater diatoms
+    Path: galleries/swedish-benthic-freshwater-diatoms
+    Content: |
+      This gallery is aimed for Swedish benthic freshwater diatoms.
+
+      [taxon-media filter: gallery; value: Swedish benthic freshwater diatoms]
+
+  - Title: Help
+    Path: help
+    Content: |
+      ## Basic funtionality
+
+      Nordic Microalgae is built upon the concept of taxon sheets. The most interesting sheets are at the species level where you will find illustrations and other information about a species. To reach species sheets you can use the TAXON TREE view or the QUICK VIEW. Filters can be used to restrict what you see. If you know the name or part of the name of an organism the search funtion may be useful. Hopefully most of the web site is self explanatory.
+
+      There is no extensive help for Nordic Microalgae. Do get in touch with one of the administrators if you have problems or suggestions for new functionality.
+
+      e-mail: [info@nordicmicroalgae.dev](mailto:info@nordicmicroalgae.dev)
+
+      ## For contributors
+
+      Step by step guides:
+
+      * How to contrbitute images. [Download pdf](http://downloads.nordicmicroalgae.dev/nordic_microalgae_guide_for_contriburs.pdf)
+      * How to create YouTube account and Upload videos. [Download pdf](http://downloads.nordicmicroalgae.dev/CreateYouTubeaccount&UploadVideo.pdf)
+
+      ## Use the right browser
+
+      Nordic Microalgae works best with Firefox and Safari but most browser do work.
+
+      ## Frequently asked questions, FAQ
+
+      Question
+      :   I want to use one or several images from Nordic Microalgae in  a publication. Can you give me permission to use them?
+
+      Answer
+      :   Thank you for your request. You need to get in touch directly with the copyright holders of the images you want to use. The name of the copyright holder is shown when you click on the text __Additional information__ close to the image.
+
+      Question
+      :   Why does my 'go back arrow' in the web browser not work as expected?
+
+      Answer
+      :   Try a different web browser, e.g. Firefox or Safari. Internet Explorer 7 and newer should also work.
+
+      Question
+      :   I cannot find a species I expect to find.
+
+      Answer
+      :   Try a synonym in the search field. If you still do not find the species it should probably be added to the species list. Contact Nordic Microalgae at [info@nordicmicroalgae.dev](mailto:info@nordicmicroalgae.dev) or a member of your national microalgae commitee. (at present Finland, Norway and Sweden).
+
+  - Title: History
+    Path: history
+    Content: |
+      In 1996 the web site Checklist of phytoplankton in the Skagerrak-Kattegat (including heterotrophic protists) ([http://www.smhi.se/oceanografi/oce_info_data/plankton_checklist/ssshome.htm](http://www.smhi.se/oceanografi/oce_info_data/plankton_checklist/ssshome.htm)) was launched by Bengt Karlson and Mats Kuylenstierna at Göteborg University, Sweden.  Most of the image content was produced using analogue video technique and the web pages were to a large extent produced using manual html-coding. Since then digital photography and digital video have become ubiquitous and technological advances in information technology can be used to share and disseminate information about marine organisms more efficiently. In 2007 the inter-regional EU project Forum Skagerrak II provided initial funding for transferring the Checklist of phytoplankton in the Skagerrak-Kattegat to modern web site technology. This site was never published officially due to lack of long term funding. The name was B-NEAT (Baltic and North East Atlantic Taxa).
+
+      <div style="text-align:center;">
+        <p><img src="/sites/default/files/mats_kuylenstierna_0.jpg" alt="" style="border:1px solid #000;" /></p>
+        <p>Mats Kuylenstierna (1951-2008)</p>
+      </div>
+
+  - Title: How to contribute
+    Path: how-to-contribute
+    Content: |
+      Nordic Microalgae caters for scientists and persons involved in environmental monitoring of aquatic microalgae and related organisms in the Nordic area. This includes the Baltic Sea, the North East Atlantic and lakes, rivers and streams in the area. The web site is maintained by active biologists in the area. Experts on the different groups of organisms maintain the species lists and the other information on taxon sheets. Anyone with illustrative images, videos and other material is welcome to contribute. Since Nordic Microalgae is user driven your contribution is very important. There are four types of users/contributors to Nordic Microalgae
+
+      1. Anyone using the internet can browse the web site and download species lists and images (with copyright restrictions)
+      2. Contributors of images and videos can upload images and videos, add texts about the images and edit and delete his or her own material – a username and password is needed
+      3. A smaller group of ”experts” can in addition edit information about species
+      4. Nordic Microalgae administrators can edit everything and also add and delete species names
+
+      ## How to get a user identity and a password
+
+      You simply click on Register in the top right corner of the web page. Please enter your e-mail and a username (your name) of your own choice. You will receive a temporary password in an e-mail, usually within hours. Sometimes it may take a few days. Then you choose your own password and enter your contact information. The normal procedure is that a person first gets rights to contribute images and videos and at a later stage the right to edit the content of taxon sheets.
+
+      ## Step by step guides
+
+      How to contrbitute images. [Download pdf](http://downloads.nordicmicroalgae.dev/nordic_microalgae_guide_for_contriburs.pdf)
+      How to create YouTube account and Upload videos. [Download pdf](http://downloads.nordicmicroalgae.dev/CreateYouTubeaccount&UploadVideo.pdf)
+
+      ## About contribution of images
+
+      Please contribute images for any organism in Nordic Microalgae. There is no restriction of the number of images per taxon but more than ten is seldom useful. Most important are images of organisms that are not yet well illustrated. Before you consider contribution make sure that you understand the implications for copyright holders by reading the [Copyright notice](/copyright-notice). All types of high quality images are requested, e.g.
+
+      * Images of the whole organism
+      * Images showing details important for identification
+      * Images showing interesting behaviour
+      * Images of live organisms as well as organisms preserved with different preservatives (Lugol’s, formalin, glutardialdehyde etc.)
+      * Images obtained using different techniques for contrast enhancement, e.g. phase contrast, interference contrast and standard light microscopy
+      * Images of organisms observed in the fluorescence microscope
+      * Images showing natural fluorescence and/or fluorescence from different stains such as DAPI, Calcofluor etc.
+      * Images of organisms observed in the electron microscope
+
+      It is also useful showing an organism at different focus levels. Taking several photographs at different z-level (focus) and stitching them together in the computer is one way to achieve a useful film. Please use arrows and other markers where appropriate. Scale bars are very useful in images.
+
+      ## About manipulations of images and video
+
+      With the software and computers available today it is tempting to manipulate images to make them “better” or more “beautiful” in some way. This is allowed for images contributed to Nordic Microalgae but it must be clearly stated in the caption for the image that it has been manipulated. Contrast adjustments etc. to make images more similar to what you see in the microscope are not considered manipulations.
+
+      ## Change history
+
+      Please note that all changes in Nordic Microalgae, e.g. the addition of images and changes in texts on taxon sheets are recorded. The records can be found at the end of each taxon sheet. The latest added images show up on the start page.
+
+  - Title: Introduction
+    Path: introduction
+    Content: |
+      <div id="mobile-version-note" markdown="1">
+      __Visit version for smartphones and tablets:__ [m.nordicmicroalgae.dev](http://m.nordicmicroalgae.dev)
+      </div>
+
+      <img class="figure" src="/sites/default/files/photos005_0.jpg)" alt="" />
+
+      ## Welcome to Nordic Microalgae
+
+      The web site is a source of information about microalgae and related organisms in the Nordic area, i.e. the Baltic Sea, the North East Atlantic and lakes, rivers and streams in the area.  This site is of use for science, education, environmental monitoring etc. The content of the site is mainly supplied by the users.
+
+      ## Latest added illustrations
+
+      [taxon-media filter: Latest images; limit: 3; pager: no]
+
+  - Title: Introduktion
+    Path: sv
+    Content: |
+      <div id="mobile-version-note" markdown="1">
+      __Besök vår mobilanpassade webbplats [m.nordicmicroalgae.dev](http://m.nordicmicroalgae.dev)__
+      </div>
+
+      <img class="figure" src="/sites/default/files/photos005_0.jpg)" alt="" />
+
+      ## Välkommen till Nordiska mikroalger
+
+      Webbsidan innehåller information om mikroalger och besläktade organismer i Norden och närliggande områden. Den omfattar Östersjön, nordöstra delen av Atlanten och sjöar och vattendrag i området.  Webbplatsen är användbar inom forskning, undervisning, miljöövervakning osv. Det är i huvudsak användarna som tillhandahåller innehållet.
+
+      ## Senast inlagda illustrationer
+
+      [taxon-media filter: Latest images; limit: 3; pager: no]
+
+      Informationen på övriga sidor av denna webbplats är på engelska.
+
+  - Title: Introduksjon
+    Path: no
+    Content: |
+      <div id="mobile-version-note" markdown="1">
+      __Besøk vår tilgjengelige mobil versjon [m.nordicmicroalgae.dev](http://m.nordicmicroalgae.dev) tilpasset håndholdt utstyr__
+      </div>
+
+      <img class="figure" src="/sites/default/files/photos005_0.jpg)" alt="" />
+
+      ## Velkommen til Nordiske Mikroalger
+
+      Websiden gir informasjon om mikroalger og beslektede organismer i Norden og omfatter Østersjøen, nordøstre del av Atlanterhavet og nordiske vann og vassdrag. Denne websiden er anvendelig i arbeid innen naturvitenskap, undervisning, overvåkning osv. Innholdet på websiden er hovedsakelig levert av brukerne.
+
+      ## Siste innlagte illustrasjoner
+
+      [taxon-media filter: Latest images; limit: 3; pager: no]
+
+      Informasjonen på de ande sidene på dette nettstedet er på engelsk.
+
+  - Title: Introduktion
+    Path: da
+    Content: |
+      <div id="mobile-version-note" markdown="1">
+      __Besøg den mobile version [m.nordicmicroalgae.dev](http://m.nordicmicroalgae.dev), der er tilpasset håndholdte enheder__
+      </div>
+
+      <img class="figure" src="/sites/default/files/photos005_0.jpg)" alt="" />
+
+      ## Velkommen til Nordic Microalgae
+
+      Denne hjemmeside giver oplysninger om mikroalger og relaterede organismer i det nordiske område, dvs. Østersøen, det nordøstlige Atlanterhav og søer, floder og vandløb i området. Hjemmesiden er til brug for videnskab, uddannelse, miljøovervågning m.v. Hjemmesidens indhold leveres hovedsageligt af brugerne.
+
+      ## Senest tilføjede illustrationer
+
+      [taxon-media filter: Latest images; limit: 3; pager: no]
+
+      Informationen på den øvrige del af denne hjemmeside er på engelsk.
+
+  - Title: Inngangur
+    Path: is
+    Content: |
+      <div id="mobile-version-note" markdown="1">
+      __Heimsækið snjallsímavefinn. [m.nordicmicroalgae.dev](http://m.nordicmicroalgae.dev) er aðgengilegur snjallsímum og spjaldtölvum.__
+      </div>
+
+      <img class="figure" src="/sites/default/files/photos005_0.jpg)" alt="" />
+
+      ## Velkomin á vef norrænna svifþörunga
+
+      Vefsíðan er safn upplýsinga um svifþörunga og skyldar lífverur á norðurslóðum, svo sem í Eystrasalti, í norðuraustur Atlantshafi, og vötnum ám og lækjum á þessu svæði. Þessi síða er ætluð til notkunar fyrir þá sem sinna vísindum, menntun, eða fylgjast með umhverfisbreytingum og þess háttar. Efni síðunnar er aðallega látið í té af notendum hennar.
+
+      ## Nýjustu myndir sem hafa bæst í safnið
+
+      [taxon-media filter: Latest images; limit: 3; pager: no]
+
+      Upplýsingar á öðrum síðum vefsvæðisins eru á ensku.
+
+  - Title: Johdanto
+    Path: fi
+    Content: |
+      <div id="mobile-version-note" markdown="1">
+      __Mobiilisovellus [m.nordicmicroalgae.dev](http://m.nordicmicroalgae.dev) on myös saatavilla.__
+      </div>
+
+      <img class="figure" src="/sites/default/files/photos005_0.jpg)" alt="" />
+
+      ## Tervetuloa Nordic Microalgae –sivustolle
+
+      Sivustolta löytyy tietoa pohjoisten alueiden eli Itämeren, koillisen Atlantin, pohjolan järvien, jokien ja purojen mikrolevistä ja niiden kaltaisista eliöistä. Sivusto on hyödyksi tieteen, opetuksen, ympäristön seurannan ym. piirissä. Sivuston sisältö on pääasiassa käyttäjien tuottamaa.
+
+      ## Viimeisimmät kuvalisäykset
+
+      [taxon-media filter: Latest images; limit: 3; pager: no]
+
+      Tämän sivuston muut sivut ovat englanniksi.
+
+  - Title: Įvadas
+    Path: lt
+    Content: |
+      <div id="mobile-version-note" markdown="1">
+      __Aplankykit mobiliąją Svetainės versiją [m.nordicmicroalgae.dev](http://m.nordicmicroalgae.dev) naudodamiesi pritaikytais rankiniais prietaisais (išmaniaisiais telefonais ir planšetiniais kompiuteriais).__
+      </div>
+
+      <img class="figure" src="/sites/default/files/photos005_0.jpg)" alt="" />
+
+      ## Sveiki atvykę į Šiaurės Mikrodumblių Svetainę
+
+      Svetainė suteikia informaciją apie mikrodumblių ir susijusių organizmų pasitaikančių Šiaurės regione, t.y. Baltijos jūroje, Šiaurės-Rytų Atlanto Vandenyne bei šio regiono ežeruose, upėse ir vandentakiuose. Ši svetainė yra skirta naudotis mokslo, švietimo, aplinkos monitoringo ir t.t. tikslais. Svetainės turinį daugiausiai pildo vartotojai
+
+      ## Vėliausiai pridėtos iliustracijos
+
+      [taxon-media filter: Latest images; limit: 3; pager: no]
+
+      Informacija kituose Svetainės puslapiuose yra anglų kalba
+
+  - Title: О веб-сайте
+    Path: ru
+    Content: |
+      <div id="mobile-version-note" markdown="1">
+      __Версия для смартфонов и планшетов: [m.nordicmicroalgae.dev](http://m.nordicmicroalgae.dev)__
+      </div>
+
+      <img class="figure" src="/sites/default/files/photos005_0.jpg)" alt="" />
+
+      ## Добро пожаловать в Nordic Microalgae.
+
+      Веб-сайт является источником информации о микроводорослях и o родственных им организмах в Северной Европе, включая Балтийское море, северо-восточную часть Атлантического океана, а также пресноводные озера, реки и ручьи в этой местности. Этот веб-сайт для всех кто занимается наукой, образованием, мониторингом окружающей среды и т.д. Основная часть материалов, содержащихся на сайте, предоставлена нашими пользователями.
+
+      ## Последние добавления.
+
+      [taxon-media filter: Latest images; limit: 3; pager: no]
+
+      Информация на остальных страницах веб-сайт на английском языке.
+
+  - Title: Einleitung
+    Path: de
+    Content: |
+      <div id="mobile-version-note" markdown="1">
+      __Besuchen Sie die Version für Smatphones und Tablets: [m.nordicmicroalgae.dev](http://m.nordicmicroalgae.dev)__
+      </div>
+
+      <img class="figure" src="/sites/default/files/photos005_0.jpg)" alt="" />
+
+      ## Willkommen bei Nordic Microalgae
+
+      Diese Website bietet Informationen über Mikroalgen und andere planktische Organismen der nördlichen Gebiete, wie der Ostsee, dem nordöstlichen Atlantik und Seen, Flüssen und Strömen in diesem Gebiet. Die Seite ist nützlich für Wissenschaft, Ausbildung, Umweltüberwachung usw. Der Inhalt dieser Seite wurde hauptsächlich durch die Nutzer zur Verfügung gestellt.
+
+      ## Die neuesten Abbildungen
+
+      [taxon-media filter: Latest images; limit: 3; pager: no]
+
+      Informationen auf anderen Seiten dieser Website nur in englisch.
+
+  - Title: Sissejuhatus
+    Path: et
+    Content: |
+      <div id="mobile-version-note" markdown="1">
+      __Külasta nutitelefoni ja tahvelarvuti rakendust: [m.nordicmicroalgae.dev](http://m.nordicmicroalgae.dev)__
+      </div>
+
+      <img class="figure" src="/sites/default/files/photos005_0.jpg)" alt="" />
+
+      ## Tere tulemast Nordic Microalgae kodulehele!
+
+      See veebileht on infoallikaks Läänemere ja Kirde-Atlandi piirkonna merede, järvede, jõgede ja ojade mikrovetikate ning nendega seotud organismirühmade kohta. Sait on kasutatav teadus- ja haridustöös, keskkonnaseirel jm. Veebilehe sisu loovad peamiselt selle kasutajad.
+
+      ## Viimatilisatud pildid
+
+      [taxon-media filter: Latest images; limit: 3; pager: no]
+
+      Info selle veebisaidi teistel lehekülgedel on ingliskeelne
+
+  - Title: Wprowadzenie.
+    Path: pl
+    Content: |
+      <div id="mobile-version-note" markdown="1">
+      __Zobacz wersję na smartfon i tablet: [m.nordicmicroalgae.dev](http://m.nordicmicroalgae.dev)__
+      </div>
+
+      <img class="figure" src="/sites/default/files/photos005_0.jpg)" alt="" />
+
+      ## Witamy w Nordic Microalgae
+
+      Nasza witryna zawiera informacje o mikroskopijnych glonach i podobnych organizmach spotykanych w Morzu Bałtyckim, Północno-Wschodnim Atlantyku oraz jeziorach, rzekach i strumieniach z rejonu Północnej Europy. Witryna ta przeznaczona jest do użytku w nauce, edukacji, monitoringu środowiskowym itp. Tworzona jest głównie w oparciu o materiały dostarczane przez jej użytkowników
+
+      ## Ostatnio dodane ilustracje
+
+      [taxon-media filter: Latest images; limit: 3; pager: no]
+
+      Informacje na innych stronach tej witryny są w języku angielskim
+
+  - Title: Ievads
+    Path: lv
+    Content: |
+      <div id="mobile-version-note" markdown="1">
+      __[m.nordicmicroalgae.dev](http://m.nordicmicroalgae.dev) viedtālruņiem un planšetdatoriem pārlūka versija__
+      </div>
+
+      <img class="figure" src="/sites/default/files/photos005_0.jpg)" alt="" />
+
+      ## Laipni lūgti Nordic Mikroaļģu portālā!
+
+      Tīmekļa vietnē ir atrodama informācija par mikroaļģēm un tām līdzīgiem organismiem Ziemeļvalstu reģionā - Baltijas jūrā, Atlantijas okeāna ziemeļaustrumu daļā, kā arī ezeros, upēs un strautos. Šo vietni var izmantot zinātniskiem, izglītojošiem, vides monitoringa un citiem mērķiem. Par vietnes saturu galvenokārt atbild tās lietotāji.
+
+      ## Jaunākie pievienotie attēli
+
+      [taxon-media filter: Latest images; limit: 3; pager: no]
+
+      Pārējā informācija šajā un citās mājas lapās atrodama angļu valodā
+
+  - Title: Latest Images
+    Path: latest-images
+    Content: |
+      On this page the latest contributed images are shown. It is updated at around midnight every day.
+
+      Click on the image to view a larger version of the image at  the species sheets of the organism shown.
+
+      [taxon-media filter:Latest images]
+
+  - Title: Links
+    Path: links
+    Content: |
+      ## Information about microalgae
+
+      * [Algaebase](http://www.algaebase.org/)
+      * [Checklist of phytoplankton in the Skagerrak-Kattegat](http://www.smhi.se/oceanografi/oce_info_data/plankton_checklist/ssshome.htm)
+      * [Center of Excellence for Dinophyte Taxonomy](http://www.dinophyta.org/index.php?option=com_frontpage&Itemid=1)
+      * [ITIS, the Integrated Taxonomic Information System](http://www.itis.gov/)
+      * [IOC-UNESCO Taxonomic Reference List of Harmful Micro Algae](http://www.marinespecies.org/hab/)
+      * [Kasviplanktonopas (in Finnish)](http://www.jyu.fi/bio/kasviplankton/uusin/index.php)
+      * [Phytoplanktonguide (Louisiana Universities Marine Consortium)](http://phytoplanktonguide.lumcon.edu/)
+      * [NorBaf](http://www.norbaf.net/index.html) - the Nordic-Baltic Network for Benthic Algae in Freshwater
+      * [Phyto'pedia](http://www.eos.ubc.ca/research/phytoplankton/) Univ. of British Columbia
+      * [Plankton*net](http://planktonnet.awi.de/) Alfred Wegener Institute for Polar and Marine Research
+      * [Sea Fisheries Institute, Gdynia, phytoplankton gallery](http://www.sfi.gdynia.pl/?page_id=400)
+      * [World Register of Marine Species](http://www.marinespecies.org/)
+      * [Phycokey](http://cfb.unh.edu/phycokey/phycokey.htm) from the University of New hampshire
+      * [The International Nannoplankton Association](http://ina.tmsoc.org/)
+      * [Nannotax3](http://ina.tmsoc.org/Nannotax3/index.html) - interactive database of nannofossil taxonomy- coccolithoporids etc.
+
+      ## Information about microzooplankton
+
+      * [Planktonic Ciliate Project](http://ciliate.zooplankton.cn/)
+
+      ## Other links
+
+      * [Tree of life](http://tolweb.org/tree)
+      * [Swedish Species Information Centre](http://www.artdata.slu.se/)
+      * [Dyntaxa](http://www.artdata.slu.se/svenskaartprojektet/dyntaxa.asp) - taxonomic database at the Swedish Species Information Centre
+      * [Norwegian Biodiversity Information Centre](http://www.artsdatabanken.no/)
+      * [HELCOM - Helsinki Commission - Baltic Marine Environment Protection Commission](http://www.helcom.fi/)
+      * [ICES - International Council for the Exploration of the Sea](http://www.ices.dk/)
+      * [IOC - Intergovernmental Oceanographic Commission](http://www.ioc-unesco.org/)
+      * [NEAT (North East Atlantic Taxa)](http://www.tmbl.gu.se/libdb/taxon/taxa.html)
+      * [Swedish Museum of Natural History](http://www.nrm.se/)
+
+  - Title: Literature
+    Path: literature
+    Content: |
+      [Classic monographs](http://www.obs-vlfr.fr/LOV/aquaparadox/html/ClassicMonographs.php) available at Aquaparadox maintained at Observatoire Océanologique de Villefranche sur Mer
+
+      Old publications are also available at the [Biodiversity Heritage Library](http://www.biodiversitylibrary.org/)
+
+      Christensen, T., Koch, C. & Thomsen, H. A. 1985. Distribution of algae in danish salt and brackish waters. Institut for Sporeplanter, Copenhagen.
+
+      Heimdal, B. R., Hasle, G. R. & Throndsen, J. 1973. An annotated check-list of plankton algae from the Oslofjord, Norway (1951-1972). Norw. J. Bot. 20: 13-19.
+
+      Hällfors, G. (2004). Checklist of Baltic Sea Phytoplankton Species (including some heterotrophic protistan groups), Baltic Sea Environment Proceedings No. 95, HELCOM, 208 pp. [Download pdf](http://www.helcom.fi/stc/files/Publications/Proceedings/bsep95.pdf)
+
+      Intergovernmental Oceanographic Commission of ©UNESCO. 2010. Karlson, B., Cusack, C. and Bresnan, E. (editors).Microscopic and molecular methods for quantitative phytoplankton analysis. Paris, UNESCO. (IOC Manuals and Guides, no. 55.) IOC/2010/MG/55), 110 pages [Download pdf](http://ioc-unesco.org/hab/index.php?option=com_oe&task=viewDocumentRecord&docID=5440)
+
+      Olenina, I., Hajdu, S., Edler, L., Andersson, A., Wasmund, N., Busch, S., Göbel, J., Gromisz, S., Huseby, S., Huttunen, M., Jaanus, A., Kokkonen, P., Ledaine, I. and Niemkiewicz, E. 2006 Biovolumes and size-classes of phytoplankton in the Baltic Sea HELCOM Balt.Sea Environ. Proc. No. 106, 144pp. [Download pdf](http://www.helcom.fi/stc/files/Publications/Proceedings/bsep106.pdf)
+
+      Thomsen, H. A. 1992. Plankton i de indre danske farvande. Havforskning fra Miljøstyrelsen, Nr. 11. Copenhagen. [Link to pdf](http://www.mst.dk/Publikationer/Publikationer/1992/11/87-7810-034-8.htm)
+
+      Throndsen, J. 1969. Flagellates of Norwegian coastal waters. Nytt Mag. Bot. 16: 161-216.
+
+      Throndsen, J., Hasle, G.R. and Tangen, K. (2007). Phytoplankton of Norwegian Coastal Waters, Almater forlag, 341 pp.
+
+  - Title: Main objectives
+    Path: main_objectives
+    Content: |
+      1. To provide information on the biodiversity of aquatic microalgae and related organisms in the Nordic area.
+      2. To provide up to date species lists of microalgae and related organisms in the Nordic area. The plan is to publish them once and then provide yearly updates. The species lists may be usable as reference lists. The organisms are:
+          * Phytoplankton and and microzooplankton (i.e. cyanobacteria, unicellular eukarotic algae and heterotrophic protists).
+          * Benthic microalgae and benthic microheterotrophs.
+      3. To provide information about the systematic position of the organisms.
+          * The systematics of organisms is bound to change as knowledge increases. Nordic Microalgae should reflect the latest widely accepted version.
+          * Nordic Microalgae cooperates with [AlgaeBase](http://www.algaebase.org/), [the IOC-HAB programme](http://ioc-unesco.org/hab/),  [World Register of Marine Species](http://www.marinespecies.org/) and the [Swedish Species Information Centre](http://www.artdata.slu.se/).
+      4. To provide high quality images, illustrations and videos of the organisms.
+          * The content are provided by microalgae experts in the area.
+      5. To provide information relevant for environmental monitoring, e.g.
+          * Main habitat of organisms
+          * Trophic role of organisms
+          * Morphology
+          * Biovolume information for biomass calculations
+          * Geographical distribution
+          * Harmfulness
+          * Size
+          * etc.
+
+  - Title: NOMP
+    Path: nomp
+    Content: |
+      ## NOMP - Nordic Marine Phytoplankton Group
+
+      NOMP - Nordic Marine Phytoplankton Group consists of persons in Denmark, Iceland, Norway and Sweden  working with research and environmental monitoring related to phytoplankton, algal blooms and harmful algae. One aim of the group is to improve quality and intercomparablity of results by using consistent names of organisms and algal groups. Other aims include collaboration through yearly meetings to share recent results, intercomparisons of methods etc. The sea areas in focus are the  Kattegat, the Skagerrak, the North Sea, the Norwegian Sea, the Barent Sea, the Iceland Sea and the Greenland Sea.
+
+      ### 2015
+
+      NOMP – Nordic Marine Phytoplankton group workshop 14-16 September 2015 in Arendal, Norway
+
+      * [NOMP Minutes 2015](http://downloads.nordicmicroalgae.dev/NOMP/NOMP_minutes_2015.pdf)
+
+      ### 2013
+
+      Minutes from the Scandinavian Marine Phytoplankton Workshop held in Fiskebäckskil, Sweden, 26-28 August, 2013
+
+      * [Draft minutes NOMP-SCAMPY workshop 2013 version 2 September](http://downloads.nordicmicroalgae.dev/NOMP/Draft_minutes_NOMP-SCAMPY_2013_version_2_September_2013.pdf)
+
+      #### Autumn 2013
+
+      Phytoplanktologists from the Marine Research Institute, Iceland, joins the group.
+
+      #### 1 November
+
+      Name change from ScaMPy - Scandinavian Marine Phytoplankton Group to NOMP - Nordic Marine Phytoplankton Group
+
+  - Title: Partners
+    Path: partners
+    Content: |
+      * [AlgaeBase](http://www.algaebase.org/), National University of Ireland, Galway, Ireland
+      * [Finnish Environment Institute, Finland](http://www.ymparisto.fi/default.asp?node=5297&lan=en)
+      * [Institute of Marine Research, Norway](http://www.imr.no/)
+      * [Latvian Institute of Aquatic Ecology, Latvia](http://www.lhei.lv/en/)
+      * [Leibniz Institute for Baltic Sea Research, Warnemünde, Germany](http://www.io-warnemuende.de/en_index.html)
+      * [National Environmental Research Institute, Denmark](http://www.dmu.dk/en/)
+      * [NIVA, Norwegian Institute for Water Research, Norway](http://www.niva.no/)
+      * [Scandinavian Culture Collection of Algae and Protozoa at the University of Copenhagen, Denmark](http://www.sccap.dk/)
+      * [Sea Fisheries Institute in Gdynia, Poland](http://www.sfi.gdynia.pl/)
+      * [Stockholm University, Department of Systems Ecology, Sweden](http://www.ecology.su.se/)
+      * [Swedish Meteorological and Hydrological Institute, Sweden](http://www.smhi.se/)
+      * [Swedish University of Agricultural Sciences, Department of Aquatic Sciences and Assessment](http://www.slu.se/en/faculties/nl/about-the-faculty/departments/department-of-aquatic-sciences-and-assessment/)
+      * [Swedish University of Agricultural Sciences, Swedish Species Information Centre, Sweden](http://www.artdata.slu.se/english/)
+      * [Tvärminne Zoological Station, University of Helsinki, Finland](http://luoto.tvarminne.helsinki.fi/english/index.htm)
+      * [Umeå University, Sweden](http://www.umu.se/)
+      * [Umeå Marine Sciences Centre, Umeå University, Sweden](http://www.umf.umu.se/english/?languageId=1)
+      * [University of Copenhagen, Marine Biological Section, Department of Biology, Denmark](http://www.ku.dk/english/)
+      * [University of Gothenburg, Department of Marine Ecology, Sweden](http://www.gu.se/)
+      * [University of Klaipeda, Lithuania](http://www.ku.lt/eng/)
+      * [University of Lund, Department of Biology, Limnology, Sweden](http://www.lunduniversity.lu.se/)
+      * [University of Oslo, Department of Biology, Norway](http://www.bio.uio.no/)
+      * [University of Tartu, Institute of Technology](http://www.tuit.ut.ee/), Estonia
+
+  - Title: Terms
+    Path: terms-of-use
+    Content: |
+      ## For users
+
+      Images are made available for use in lectures, lecture notes, and seminars for environmental monitoring, educational and research purposes.  If material is used a reference to Nordic Microalgae [http://nordicmicroalgae.dev](http://nordicmicroalgae.dev) is required and the creator (photographer or artist) must be acknowledged. Rights for commercial use may be negotiated directly with the creator of images (photographer or artist). [Creative Commons](http://creativecommons.org/licenses/) is used for defining rights of usage. In general Creative commons Attribution - NoDerivs 3.0 Unported is used. This means that the image may be used but the soruce must be attributed and the image may not be altered. Material that is old may be in the public domain. This is the case if the creator has been dead for over 70 years. Please visit [Creative Commons](http://creativecommons.org/licenses/) for more information
+
+      ## For contributors
+
+      You agree that your name is shown on [www.nordicmicroalgae.dev](http://nordicmicroalgae.dev) and that information about you is stored in the contributor database. Your e-mail address will not be shown to the public. It is your responsibility to make sure that you have the right to upload images to Nordic Microalgae. The creator (photographer or artist) keeps the copyright to the image. Please select one of the four options below when you upload images. Number 2 is recommended in general.
+
+      1. Creative Commons Attribution 3.0 Unported
+      2. Creative Commons Attribution-NoDerivs 3.0 Unported
+      3. Creative Commons Attribution-ShareAlike 3.0 Unported
+      4. Public domain
+
+      ## Guide
+
+      A step by step guide describing how to contrbitute images. [Download pdf](http://downloads.nordicmicroalgae.dev/nordic_microalgae_guide_for_contriburs.pdf)
+
+      ## Reference
+
+      (more names are likely to be added) Cite Nordic Microalgae as: Karlson, B. et al. 2011. Nordic Microalgae. World-wide electronic publication, [http://www.nordicmicroalgae.dev](http://nordicmicroalgae.dev).
+
+  - Title: Tools
+    Path: tools
+    Content: |
+      <h2>
+        <img src="/sites/default/files/plankton_toolbox_icon.png" alt="" width="50" height="50" style="vertical-align: middle;" />
+        PlanktonToolbox
+      </h2>
+
+      The Plankton Toolbox is a free tool for aquatic scientists, and others, working with environmental monitoring related to phyto- and zooplankton. It is available for MacOS and  Windows. A Linux verion will produced upon request.
+
+      Features include:
+
+      * Imports phyto- or zooplankton data in .txt and .xlsx files in different formats (configurable)
+      * Work with data on abundance, biovolume and carbon content
+      * Data screening - quality control of data
+      * Aggregate data, e.g. from species level to class level
+      * Plotting tools
+      * Statistics (in early development)
+      * Export data in .txt or .xlsx for further analyses or plotting
+      * Plankton counter - use the PlanktonToolbox as a counting tool by the microscope
+
+      The software is available as version 1.2.0 for Windows and for MacOS.
+
+      Update 21 December 2016
+
+      Version 1.2.1 for Windows is available
+      Version 1.2.1 for Mac is available.
+
+      Notes for Mac users:
+
+      Place the folder "toolbox_data" in your home folder, e.g. in "Mike".
+      You will get a warning the first time you start the software. Go to Settings -> Security and allow Plankton Toolbox to start. You need to do this only once.
+
+      ### Downloads
+
+      #### Latest version
+
+      * [Plankton Toolbox version 1.2.1 and users guide 1.2.1](http://downloads.nordicmicroalgae.dev/PlanktonToolbox_1_2_1/)
+
+      #### Earlier versions
+
+      * [Plankton Toolbox version 1.2.0 and users guide 1.2.0](http://downloads.nordicmicroalgae.dev/PlanktonToolbox_1_2_0/)
+      * [Plankton Toolbox 1.1.1 and Plankton toolbox User's guide version 1](http://downloads.nordicmicroalgae.dev/PlanktonToolbox_1_1_1/)
+      * [Plankton Toolbox older version](http://downloads.nordicmicroalgae.dev/PlanktonToolbox/)
+
+
+      ### For developers
+
+      [Visit project website »](http://plankton-toolbox.org/)

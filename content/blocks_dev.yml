@@ -1,0 +1,21 @@
+Blocks:
+  - Title:
+    Description: Footer information
+    Content: Nordic Microalgae is developed and operated by the [Swedish Meterological and Hydrological Institute (SMHI)](http://www.smhi.se/en) with funding from the [Swedish LifeWatch project](http://www.svenskalifewatch.se/).
+  - Title:
+    Description: Language links
+    Content: |
+      <ul class="language-links">
+        <li lang="en" xml:lang="en"><a href="/">English</a></li>
+        <li lang="sv" xml:lang="sv"><a href="/sv">Svenska</a></li>
+        <li lang="no" xml:lang="no"><a href="/no">Norsk</a></li>
+        <li lang="da" xml:lang="da"><a href="/da">Dansk</a></li>
+        <li lang="is" xml:lang="is"><a href="/is">Íslenska</a></li>
+        <li lang="fi" xml:lang="fi"><a href="/fi">Suomi</a></li>
+        <li lang="lt" xml:lang="lt"><a href="/lt">Lietuvių</a></li>
+        <li lang="ru" xml:lang="ru"><a href="/ru">Русский</a></li>
+        <li lang="de" xml:lang="de"><a href="/de">Deutsch</a></li>
+        <li lang="et" xml:lang="et"><a href="/et">Eesti</a></li>
+        <li lang="pl" xml:lang="pl"><a href="/pl">Polski</a></li>
+        <li lang="lv" xml:lang="lv"><a href="/lv">Latviešu</a></li>
+      </ul>
