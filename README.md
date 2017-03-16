@@ -34,7 +34,7 @@ Example command:
 drush nordicmicroalgae-import-pages /path/to/content/pages.yml
 ```
 
-The file `drush/nordicmicroalgae.d7.inc` contains all the commands and should be installed in one of drush's detectable command directories (such as `~/.drush`). For more information on how to install and use drush please visit http://www.drush.org/
+The file `drush/nordicmicroalgae.d7.drush.inc` contains all the commands and should be installed in one of drush's detectable command directories (such as `~/.drush`). For more information on how to install and use drush please visit http://www.drush.org/
 
 ### Requirements
 
