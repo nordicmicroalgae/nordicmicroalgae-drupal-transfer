@@ -101,7 +101,7 @@ function drush_nordicmicroalgae_import_nodes($node_type, $root_key, $path) {
     }
     $node->body[$node->language][0]['value'] = $body_html;
     $node->body[$node->language][0]['summary'] = '';
-    $node->body[$node->language][0]['format'] = 'full_html';
+    $node->body[$node->language][0]['format'] = 'filtered_html_extended';
 
     // Setup path alias - if specified.
     if (!empty($item['Path'])) {
@@ -174,7 +174,7 @@ function drush_nordicmicroalgae_import_forums($path) {
       }
       $node->body[$node->language][0]['value'] = $body_html;
       $node->body[$node->language][0]['summary'] = '';
-      $node->body[$node->language][0]['format'] = 'full_html';
+      $node->body[$node->language][0]['format'] = 'filtered_html_extended';
 
       // Add reference to the taxnoomy term (forum) previously created.
       $node->taxonomy_forums[$node->language][0]['tid'] = $term->tid;
@@ -226,7 +226,7 @@ function drush_nordicmicroalgae_import_forums($path) {
           $comment_body_html = '';
         }
         $comment->comment_body[$comment->language][0]['value']  = $comment_body_html;
-        $comment->comment_body[$comment->language][0]['format'] = 'full_html';
+        $comment->comment_body[$comment->language][0]['format'] = 'filtered_html_extended';
 
         // Save comment.
         comment_save($comment);
