@@ -182,8 +182,17 @@ function drush_nordicmicroalgae_import_forums($path) {
       // Save node.
       node_save($node);
 
-      // Continue to the next topic if current topic does not have any comments/replies.
+      // If the current topic does not have any comments/replies, make some
+      // corrections in the comment statistics table and continue to next topic.
       if (empty($topic_info['Comments'])) {
+        // Update {node_comment_statistics} timestamp to same as the node
+        // creation timestamp, otherwise the timestamp will be set to same as
+        // the node last update timestamp (which is now) in the comment
+        // statistics table for topics without any comments/replies.
+        db_update('node_comment_statistics')
+          ->fields(array('last_comment_timestamp' => $node->created))
+          ->condition('nid', $node->nid)
+          ->execute();
         continue;
       }
 
