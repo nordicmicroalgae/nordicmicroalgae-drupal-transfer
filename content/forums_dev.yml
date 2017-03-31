@@ -25,11 +25,11 @@ Forums:
         Content: |
           This two specimens was taken near Skrova, Nordland, Norway on 1. december 2015. Fluorecent in calcofluor. Size arond 50 my. What can it be?
 
-          ![]("/sites/default/files/forum_image/Skrova 1-12-2015 40x -4_bak - Copy.jpg")
+          <img src="/sites/default/files/forum_image/Skrova 1-12-2015 40x -4_bak - Copy.jpg" />
 
-          ![]("/sites/default/files/forum_image/Skrova 1-12-2015 40x -5_bak.jpg")
+          <img src="/sites/default/files/forum_image/Skrova 1-12-2015 40x -5_bak.jpg" />
 
-          ![]("/sites/default/files/forum_image/Skrova 1-12-2015 40x komb-soft stack.jpg")
+          <img src="/sites/default/files/forum_image/Skrova 1-12-2015 40x komb-soft stack.jpg" />
         Comments:
           - Title: unidentified
             Author: Fredrik Norén
@@ -57,7 +57,7 @@ Forums:
         Content: |
           I´ve found a dinoflagellate that I can´t put a name on. I first found it in a channel in Landskrona in mid June, with a salt water inlet. I found it later in the south of Öresund from mid July. Always with two spines.
 
-          ![]("/sites/default/files/forum_image/dino2.jpeg")
+          <img src="/sites/default/files/forum_image/dino2.jpeg" />
         Comments:
           - Title: Maybe three spines?
             Author: marie.johansen
@@ -106,8 +106,8 @@ Forums:
 
           Fredrik Norén
 
-          ![]("/sites/default/files/forum_image/2013-12-17 Plankton Korsfjorden.jpg")
-          ![]("/sites/default/files/forum_image/Goméz et al 2008 chilean dinos.JPG")
+          <img src="/sites/default/files/forum_image/2013-12-17 Plankton Korsfjorden.jpg" />
+          <img src="/sites/default/files/forum_image/Goméz et al 2008 chilean dinos.JPG" />
       - Title: Chaetoceros
         Author: Fredrik Norén
         Submitted: 2012-10-01 10:38
@@ -120,7 +120,7 @@ Forums:
           b.r.
           Fredrik
 
-          ![]("/sites/default/files/forum_image/Chaetoceros wighamii.jpg")
+          <img src="/sites/default/files/forum_image/Chaetoceros wighamii.jpg" />
         Comments:
           - Title: Chaetoceros
             Author: Janina Kownacka
@@ -141,8 +141,14 @@ Forums:
       - Title: Unidentified organisms
         Author: Jane T Bhaskar
         Submitted: 2013-03-15 07:15
-        Content: Some of the organisms that I found in samples from Kongsfjord which I am unable to identify
-        Images: [image_120814_001_ovl.jpg, image_120814_006_ovl.jpg, image_121123_001_ovl.JPG, image_121018_015_ovl.jpg, image_121016_026_ovl.jpg]
+        Content: |
+          Some of the organisms that I found in samples from Kongsfjord which I am unable to identify
+
+          <img src="/sites/default/files/forum_image/image_120814_001_ovl.jpg" />
+          <img src="/sites/default/files/forum_image/image_120814_006_ovl.jpg" />
+          <img src="/sites/default/files/forum_image/image_121123_001_ovl.JPG" />
+          <img src="/sites/default/files/forum_image/image_121018_015_ovl.jpg" />
+          <img src="/sites/default/files/forum_image/image_121016_026_ovl.jpg" />
       - Title: Lifestage Dictyocha?
         Author: Malin Mohlin
         Submitted: 2012-09-04 11:21
@@ -151,9 +157,9 @@ Forums:
 
           I found this in Danafjord on the Swedish Westcoast 9/3 2012
 
-          ![]("/sites/default/files/forum_image/D.speculumstadie1.jpg")
-          ![]("/sites/default/files/forum_image/D.speculumstadie2.jpg")
-          ![]("/sites/default/files/forum_image/D.speculumstadie3.jpg")
+          <img src="/sites/default/files/forum_image/D.speculumstadie1.jpg" />
+          <img src="/sites/default/files/forum_image/D.speculumstadie2.jpg" />
+          <img src="/sites/default/files/forum_image/D.speculumstadie3.jpg" />
         Comments:
           - Title: Diplostauron aff. elegans
             Author: Malin Mohlin
@@ -165,7 +171,7 @@ Forums:
         Content: |
           This species was found in the southern part of The Baltic Sea in the end of October. Do anyone have any suggestions? ~20-30 µm
 
-          ![]("/sites/default/files/forum_image/Algaware_oct_2112_BY5_protop3.png")
+          <img src="/sites/default/files/forum_image/Algaware_oct_2112_BY5_protop3.png" />
       - Title: Attheya longicornis vs A septentrionalis
         Author: Fredrik Norén
         Submitted: 2012-10-01 13:09
@@ -179,7 +185,7 @@ Forums:
           b.r
           Fredrik
 
-          ![]("/sites/default/files/forum_image/Attheya longicornis.jpg")
+          <img src="/sites/default/files/forum_image/Attheya longicornis.jpg" />
       - Title: Heterotrophic dinoflagellate (Gyrodinium pellucidum?)
         Author: Fredrik Norén
         Submitted: 2012-03-04 21:16
@@ -213,7 +219,7 @@ Forums:
           b.r.
           Fredrik
 
-          ![]("/sites/default/files/forum_image/Monosiga marina.jpg")
+          <img src="/sites/default/files/forum_image/Monosiga marina.jpg" />
       - Title: Film sequences
         Author: Fredrik Norén
         Submitted: 2012-03-04 21:26
