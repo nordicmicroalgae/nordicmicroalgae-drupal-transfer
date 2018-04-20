@@ -15,7 +15,7 @@ The following documents are available:
 - `content/pages.yml`
 - `content/pages_dev.yml`
 
-File names ending with `_dev.yml` has references to nordicmicroalgae.org replaced by nordicmicroalgae.dev, which may be useful for development/testing purposes.
+File names ending with `_dev.yml` has references to nordicmicroalgae.org replaced by local.nordicmicroalgae.org, which may be useful for development/testing purposes.
 
 ## Tools
 
